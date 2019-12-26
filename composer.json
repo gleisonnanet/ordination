@@ -1,0 +1,27 @@
+{
+  "name": "gleisonnanet/ordination",
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "authors": [
+    {
+      "name": "Gleison de souza luiz",
+      "email": "gleisonnanet@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0",
+    "illuminate/support": "6.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "gleisonnanet\\Ordination\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "minimum-stability": "dev"
+}
