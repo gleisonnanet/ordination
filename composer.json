@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^7.0",
-    "illuminate/support": "v6.8.0"
+    "illuminate/support": "v6.0.0"
 
 
   },
